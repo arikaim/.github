@@ -6,7 +6,7 @@
 
 
 ### Requirements
- * PHP 7.4, 8.1
+ * PHP 8.1
  * PDO php extension
  * Fileinfo PHP extension
  * Curl php extension
